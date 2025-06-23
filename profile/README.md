@@ -1,6 +1,6 @@
-# Welcome to Planmatic
+# Welcome to Planmatic.io
 
-**Planmatic** is an open-source developer platform designed to accelerate the creation of intelligent, interoperable, and fully customizable media investment management solutions.
+**Planmatic.io** is an open-source developer platform designed to accelerate the creation of intelligent, interoperable, and fully customizable media investment management solutions.
 
 We believe that advertising deserves a more open and future-proof foundation—one that puts data, algorithms, and AI at the core while keeping users in control. Our mission is to help developers build the next generation of media tools that empower teams to plan, optimize, and analyze media investments with flexibility, intelligence, and interoperability.
 
