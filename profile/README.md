@@ -46,4 +46,4 @@ Whether you're an advertiser, agency, developer, or platform provider, we invite
 For more information about how to get started or explore commercial support and accelerators:
 - Visit our [website](https://www.planmatic.io)
 - Contact us or follow us on [LinkedIn](https://www.linkedin.com/company/planmatic)
-- Send us an [email](mailto:laurent.colard@level5i.com)
+- Send us an [email](mailto:contact@planmatic.io)
