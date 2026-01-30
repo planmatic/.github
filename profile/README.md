@@ -30,7 +30,7 @@ A Python-based **open source SDK** for working with media plans that follow the 
 - Import/export to Excel and JSON
 - Automated calculations and forecasting using interdependent formulas
 - Support for analytics (including integration with PostgreSQL) 
-- Schema versioning, and more
+- Schema versioning with version upgrade utilities and more
 
 Use it to prototype applications, build automated workflows, or integrate media planning with your broader tech stack.
 
