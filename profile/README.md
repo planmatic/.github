@@ -51,16 +51,6 @@ This major release brings significant enhancements to the platform:
 
 ---
 
-## Why Planmatic?
-
-- **Open by Design**: Avoid vendor lock-in with transparent standards and permissive licensing.
-- **Composable & Extensible**: Adapt the tools to your workflows, not the other way around.
-- **Multimodal**: Built to support manual, programmatic, algorithmic, and AI-assisted planning.
-
-Whether you're an agency, developer, advertiser or platform provider, we invite you to explore, contribute, and build with us.
-
----
-
 ## Commercial Offerings
 
 In addition to our open-source foundation, Planmatic offers commercial products and services to accelerate your media planning transformation:
@@ -79,6 +69,16 @@ Advanced algorithmic optimization service that leverages media plan formulas and
 
 ### Support Services
 Professional services including implementation consulting, integration development, proof of concepts, and dedicated technical support to ensure successful adoption and ongoing platform success.
+
+---
+
+## Why Planmatic?
+
+- **Open by Design**: Avoid vendor lock-in with transparent standards and permissive licensing.
+- **Composable & Extensible**: Adapt the tools to your workflows, not the other way around.
+- **Multimodal**: Built to support manual, programmatic, algorithmic, and AI-assisted planning.
+
+Whether you're an agency, developer, advertiser or platform provider, we invite you to explore, contribute, and build with us.
 
 ---
 
